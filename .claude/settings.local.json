@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(where bun *)",
+      "Bash(where npm *)",
+      "Bash(npm install *)",
+      "Bash(mkdir -p \".claude\" && echo \"Directory created/exists\")",
+      "Bash(npm --version)",
+      "Bash(curl -s http://localhost:5173)"
+    ]
+  }
+}
