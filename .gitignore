@@ -52,3 +52,5 @@ logs/
 # Build temp
 .output/
 .vinxi/
+Git-2.54.0-64-bit*.exe
+*.exe
